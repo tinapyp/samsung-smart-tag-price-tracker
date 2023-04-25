@@ -1,4 +1,4 @@
-# Amazon Web Scraper
+# Samsung SmartTag Price Tracker
 ### Building Amazon Web Page Scraper using Python
 
 This script is a web scraper that checks the price of a Samsung SmartTag Bluetooth Tracker on Amazon and adds the data to a CSV file. The script uses the BeautifulSoup library to parse the HTML of the Amazon product page, and the Requests library to make a request to the webpage.
